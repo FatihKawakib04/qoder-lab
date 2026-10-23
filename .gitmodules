@@ -1,0 +1,6 @@
+[submodule "qoder-creator"]
+	path = qoder-creator
+	url = https://github.com/FatihKawakib04/qoder-creator.git
+[submodule "tempik"]
+	path = tempik
+	url = https://github.com/FatihKawakib04/tempik.git
